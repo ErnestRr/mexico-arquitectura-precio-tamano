@@ -1,0 +1,437 @@
+{
+  "escalones": {
+    "cifra": 2138.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "tiendas": {
+    "cifra": 300.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "municipios": {
+    "cifra": 63.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "marcas": {
+    "cifra": 5.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "t3_coca": {
+    "cifra": 206.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "t3_sj": {
+    "cifra": 176.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "t3_ec": {
+    "cifra": 121.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "t3_zuc": {
+    "cifra": 141.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "t3_raj": {
+    "cifra": 192.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "ciel_t3": {
+    "cifra": 74.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "00_datos_y_seleccion",
+    "nota": ""
+  },
+  "coca_lata_600": {
+    "cifra": -44.45578231292517,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "coca_1_275": {
+    "cifra": -45.73863636363637,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "coca_600_1": {
+    "cifra": -13.913043478260878,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "sj_12_18": {
+    "cifra": 2.3809523809523725,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "sj_18_30": {
+    "cifra": -9.302325581395356,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "ec_12_18": {
+    "cifra": -8.64197530864198,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "ec_18_30": {
+    "cifra": 2.631578947368407,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "sj_pu_12": {
+    "cifra": 2.333333333333333,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "sj_pu_18": {
+    "cifra": 2.388888888888889,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "sj_pu_30": {
+    "cifra": 2.165,
+    "intervalo": null,
+    "n": null,
+    "fuente": "01_escalera_por_marca",
+    "nota": ""
+  },
+  "roto_total": {
+    "cifra": 17.35266604303087,
+    "intervalo": [
+      4.158873300963921,
+      30.537757536326165
+    ],
+    "n": 2138,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "plano_total": {
+    "cifra": 8.559401309635174,
+    "intervalo": null,
+    "n": 2138,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_coca": {
+    "cifra": 0.8183306055646482,
+    "intervalo": [
+      0.0,
+      2.9735780556676077
+    ],
+    "n": 611,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "plano_coca": {
+    "cifra": 7.6923076923076925,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "tiendas_coca": {
+    "cifra": 266.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_sj": {
+    "cifra": 43.859649122807014,
+    "intervalo": [
+      1.0098472158773668,
+      85.3574376910231
+    ],
+    "n": 399,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "plano_sj": {
+    "cifra": 8.521303258145362,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "tiendas_sj": {
+    "cifra": 223.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_ec": {
+    "cifra": 40.839694656488554,
+    "intervalo": [
+      6.248380829015544,
+      73.89422743356691
+    ],
+    "n": 262,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "plano_ec": {
+    "cifra": 15.267175572519085,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "tiendas_ec": {
+    "cifra": 141.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_zuc": {
+    "cifra": 6.045340050377834,
+    "intervalo": [
+      0.0,
+      11.851370326069995
+    ],
+    "n": 397,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "plano_zuc": {
+    "cifra": 6.801007556675064,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "tiendas_zuc": {
+    "cifra": 255.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_raj": {
+    "cifra": 12.79317697228145,
+    "intervalo": [
+      0.0,
+      33.657414215686266
+    ],
+    "n": 469,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "plano_raj": {
+    "cifra": 7.462686567164178,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "tiendas_raj": {
+    "cifra": 273.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_sj_12_18": {
+    "cifra": 85.92964824120602,
+    "intervalo": [
+      82.28422619047618,
+      90.09483097484276
+    ],
+    "n": 199,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_ec_18_30": {
+    "cifra": 73.4375,
+    "intervalo": [
+      68.3308353317346,
+      79.3918099450667
+    ],
+    "n": 128,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_raj_240_340": {
+    "cifra": 45.83333333333333,
+    "intervalo": [
+      37.19349740347709,
+      54.385964912280706
+    ],
+    "n": 120,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_zuc_380_600": {
+    "cifra": 12.408759124087592,
+    "intervalo": [
+      7.751937984496124,
+      17.327905034597944
+    ],
+    "n": 137,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_sj_18_30": {
+    "cifra": 1.5706806282722512,
+    "intervalo": [
+      0.4607237982496935,
+      3.314917127071823
+    ],
+    "n": 191,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "roto_ec_12_18": {
+    "cifra": 10.317460317460316,
+    "intervalo": [
+      5.932203389830509,
+      15.202711864406776
+    ],
+    "n": 126,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "sens_total_min": {
+    "cifra": 16.604303086997195,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "sens_total_max": {
+    "cifra": 20.77771329077191,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "sens_sj_min": {
+    "cifra": 42.10526315789473,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "sens_sj_max": {
+    "cifra": 44.61538461538462,
+    "intervalo": null,
+    "n": null,
+    "fuente": "02_rupturas",
+    "nota": ""
+  },
+  "formato_max": {
+    "cifra": 34.78260869565217,
+    "intervalo": null,
+    "n": null,
+    "fuente": "03_cadenas_y_formatos",
+    "nota": "Chedraui Selecto"
+  },
+  "formato_min": {
+    "cifra": 0.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "03_cadenas_y_formatos",
+    "nota": "Superissste"
+  },
+  "formatos_n": {
+    "cifra": 16.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "03_cadenas_y_formatos",
+    "nota": ""
+  },
+  "ajuste_max_pp": {
+    "cifra": 15.686361597665327,
+    "intervalo": null,
+    "n": null,
+    "fuente": "03_cadenas_y_formatos",
+    "nota": "Superissste"
+  },
+  "sj_formato_min": {
+    "cifra": 94.5945945945946,
+    "intervalo": null,
+    "n": null,
+    "fuente": "03_cadenas_y_formatos",
+    "nota": "Bodega Aurrerá"
+  },
+  "sj_formato_max": {
+    "cifra": 100.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "03_cadenas_y_formatos",
+    "nota": "Walmart Express"
+  },
+  "sj_formatos": {
+    "cifra": 6.0,
+    "intervalo": null,
+    "n": null,
+    "fuente": "03_cadenas_y_formatos",
+    "nota": ""
+  },
+  "sj_sobreprecio_18": {
+    "cifra": 1.0499999999999963,
+    "intervalo": null,
+    "n": null,
+    "fuente": "04_que_revisar",
+    "nota": "pesos de más por el paquete de 18 frente al precio por pieza del de 12"
+  },
+  "ec_sobreprecio_30": {
+    "cifra": 3.3333333333333215,
+    "intervalo": null,
+    "n": null,
+    "fuente": "04_que_revisar",
+    "nota": ""
+  },
+  "raj_sobreprecio_340": {
+    "cifra": 1.5833333333333284,
+    "intervalo": null,
+    "n": null,
+    "fuente": "04_que_revisar",
+    "nota": ""
+  }
+}

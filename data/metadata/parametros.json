@@ -1,0 +1,86 @@
+{
+  "semilla": 2026,
+  "bootstrap_replicas": 500,
+  "canal": "Supermercado / Tienda de Autoservicio",
+  "min_tiendas_3_tamanos": 100,
+  "plano_pct": -5.0,
+  "candidatas": {
+    "Coca-Cola": [
+      "Coca Cola",
+      "Refresco",
+      "Lata 355|600 Ml|1 Lt|2\\.75",
+      "Refresco",
+      "litro"
+    ],
+    "Huevo San Juan": [
+      "San Juan",
+      "Huevo",
+      "Blanco",
+      "Huevo",
+      "pieza"
+    ],
+    "Huevo El Calvario": [
+      "El Calvario",
+      "Huevo",
+      "Blanco",
+      "Huevo",
+      "pieza"
+    ],
+    "Zucaritas": [
+      "Zucaritas. Kellogg´s",
+      "Cereales",
+      "30 Gr|380|600|620",
+      "Cereal",
+      "kilo"
+    ],
+    "Chiles La Costeña en rajas": [
+      "La Costeña",
+      "Chiles",
+      "Jalapeños Rajas",
+      "Enlatados",
+      "kilo"
+    ],
+    "Agua Ciel": [
+      "Ciel",
+      "Agua Sin Gas",
+      "600 Ml|1 Lt|1\\.5 Lt",
+      "Agua",
+      "litro"
+    ],
+    "Galletas Saladitas": [
+      "Gamesa",
+      "Galletas Saladas",
+      "Saladitas",
+      "Galletas",
+      "kilo"
+    ],
+    "Caldo Knorr": [
+      "Knorr",
+      "Concentrado de Pollo",
+      "Frasco 450|Bolsa 750|Bolsa 950",
+      "Condimentos",
+      "kilo"
+    ],
+    "Pan Bimbo blanco": [
+      "Bimbo",
+      "Pan de Caja",
+      "Rebanado Blanco$",
+      "Pan",
+      "kilo"
+    ],
+    "Yoghurt Lala fresa (vaso y bote)": [
+      "Lala",
+      "Yoghurt",
+      "Vaso 120 Gr. Fresa|Bote 900 Gr. Fresa",
+      "Lácteos",
+      "kilo"
+    ]
+  },
+  "seleccionadas": [
+    "Coca-Cola",
+    "Huevo San Juan",
+    "Huevo El Calvario",
+    "Zucaritas",
+    "Chiles La Costeña en rajas"
+  ]
+}

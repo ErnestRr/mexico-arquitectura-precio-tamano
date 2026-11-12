@@ -1,0 +1,11 @@
+﻿escalera,categoria,unidad,tamanos,presentaciones,tiendas_3_tamanos,empresa_verificada,seleccionada
+Coca-Cola,Refresco,litro,4,Lata 355 Ml.; Botella 600 Ml.; Botella 1 Lt. No Retornable; Botella 2.75 Lt. No Retornable,206,['The Coca-Cola Company'],True
+Huevo San Juan,Huevo,pieza,3,Paquete C/12 Blanco; Paquete C/18 Blanco; Paquete C/30 Blanco,176,[],True
+Huevo El Calvario,Huevo,pieza,3,Paquete C/12 Blanco; Paquete C/18 Blanco; Paquete C/30 Blanco,121,[],True
+Zucaritas,Cereal,kilo,4,Caja 30 Gr.; Caja 380 Gr.; Caja 600 Gr.; Caja 620 Gr.,141,[],True
+Chiles La Costeña en rajas,Enlatados,kilo,5,Lata 105 Gr. Jalapeños Rajas; Lata 220 Gr. Jalapeños Rajas; Lata 240 Gr. Jalapeños Rajas; Lata 340 Gr. Jalapeños Rajas; Lata 380 Gr. Jalapeños Rajas,192,[],True
+Agua Ciel,Agua,litro,3,Botella 600 Ml.; Botella 1 Lt.; Botella 1.5 Lt.,74,[],False
+Galletas Saladitas,Galletas,kilo,3,Paquete 140 Gr. Saladitas; Paquete 186 Gr. Saladitas; Caja 504 Gr. Saladitas,2,"['PepsiCo, Inc.']",False
+Caldo Knorr,Condimentos,kilo,3,Frasco 450 Gr. Caldo; Bolsa 750 Gr. Caldo; Bolsa 950 Gr. Caldo,2,[],False
+Pan Bimbo blanco,Pan,kilo,2,Paquete Chico 350 Gr. Rebanado Blanco; Paquete Grande 620 Gr. Rebanado Blanco,0,['Grupo Bimbo'],False
+Yoghurt Lala fresa (vaso y bote),Lácteos,kilo,2,Vaso 120 Gr. Fresa; Bote 900 Gr. Fresa,0,[],False
