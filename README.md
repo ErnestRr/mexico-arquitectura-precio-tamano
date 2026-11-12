@@ -6,9 +6,15 @@
 
 ## El hallazgo principal
 
-**El cartón de 18 huevos San Juan sale más caro por huevo que el de 12 en las 6 cadenas que lo venden.** Pagas $1.05 de más por cartón (+2.4% por huevo) y pasa en 94.6% a 100% de las tiendas de cada cadena. Si seis competidores repiten lo mismo, no parece decisión de una tienda: parece venir de la lista de precios.
+**El cartón de 18 huevos San Juan sale más caro por huevo que el de 12 en las 6 cadenas que lo venden.** Si seis
+competidores repiten lo mismo, no parece decisión de una tienda: parece venir de la lista de precios.
 
-Medido por tienda: **En 86% de las tiendas (IC90 82–90%), un huevo San Juan cuesta más en el paquete de 18 que en el de 12; en Coca-Cola, la escalera se rompe en solo 0.8% de los escalones.** En las cinco marcas analizadas, 17% de los 2,138 escalones están rotos: el tamaño grande cuesta más por unidad que el chico en la misma tienda. La ruptura no se reparte: cada marca la concentra en un escalón.
+| Por huevo | Por cartón de 18 | Tiendas donde pasa, por cadena |
+|:-:|:-:|:-:|
+| ▲ +2.4% | ▲ +$1.05 | 94.6% a 100% |
+
+**En 86% de las tiendas (IC90 82–90%), un huevo San Juan cuesta más en el paquete de 18 que en el de 12.**
+En Coca-Cola, la escalera se rompe en solo 0.8% de los escalones. En las cinco marcas, 17% de los 2,138 escalones están rotos.
 
 ![Precio por unidad según tamaño en cinco marcas, con los escalones rotos resaltados](outputs/charts/01_escaleras_por_tamano.png)
 
@@ -16,11 +22,26 @@ Escalón = un tamaño contra el siguiente más grande que tiene la tienda, por l
 
 ## Tres hallazgos de apoyo
 
-1. **Cada marca rompe su escalera en un escalón.** Huevo El Calvario de 18 a 30 piezas: roto en 73% de las tiendas (IC90 68–79%). Chiles La Costeña en rajas de 240 a 340 g: 46% (IC90 37–54%). Zucaritas de 380 a 600 g: 12%. En los otros escalones la escalera funciona: en Coca-Cola, el litro baja −44% de lata a 600 ml y −46% de 1 L a 2.75 L.
-2. **La ruptura viene del producto, no de la cadena.** El escalón de 12 a 18 huevos San Juan está roto en 95% a 100% de las tiendas de cada una de las 6 cadenas con datos. Por cadena, el % de escalones rotos va de 0% a 35%, pero sobre todo por la mezcla de productos que vende cada una: con la misma mezcla, ninguna se aleja más de 16 puntos de lo esperado.
-3. **Son pocos pesos por paquete, pero rompen una promesa.** Donde la escalera está rota, el paquete de 18 huevos San Juan cuesta $1.05 más que 18 huevos al precio por pieza del de 12, y el de 30 huevos El Calvario $3.33 más que 30 al precio del de 18. Típicamente, un huevo San Juan cuesta $2.33 en el paquete de 12, $2.39 en el de 18 y $2.17 en el de 30.
+1. **Cada marca rompe su escalera en un escalón.** Huevo El Calvario de 18 a 30 piezas: roto en 73% de las
+tiendas (IC90 68–79%). Chiles La Costeña en rajas de 240 a 340 g: 46%
+(IC90 37–54%). En los otros escalones la escalera funciona.
 
-**Lo que no resultó sólido.** El % roto por marca mezcla escalones muy distintos y su rango probable es amplio (huevo San Juan: 44%, IC90 1–85%); por eso las cifras principales son por escalón. La cadena con más rupturas (Chedraui Selecto, 35%) tiene solo 3 tiendas, y Superissste no tiene ninguna ruptura pero sí muchos escalones planos (descuento menor a 5%). En chiles La Costeña, el resultado depende de qué escalones se cuentan: solo con tamaños contiguos, el % roto sube de 13% a casi el doble.
+   ![Escalones rotos por marca y tamaño, con rango probable](outputs/charts/02_rupturas_por_escalon.png)
+
+2. **El problema se repite en todas las cadenas.** El escalón de 12 a 18 huevos San Juan está roto en
+95% a 100% de las tiendas de cada una de las 6 cadenas con datos. Por cadena, el % de
+escalones rotos va de 0% a 35%, sobre todo por la mezcla de productos que vende cada una.
+
+   ![Escalones rotos por cadena](outputs/charts/03_rupturas_por_formato.png)
+
+3. **Son pocos pesos por paquete, pero rompen una promesa.** El paquete de 18 huevos San Juan cuesta
+$1.05 más que 18 huevos al precio por pieza del de 12; el de 30 El Calvario, $3.33 más que 30
+al precio del de 18. Un huevo San Juan cuesta $2.33 en el de 12, $2.39 en el de 18 y $2.17 en el de 30.
+
+   ![Cambio del precio por pieza al pasar al paquete grande: San Juan y El Calvario](outputs/charts/04_huevo_12_vs_18.png)
+
+
+**Lo que no resultó sólido.** El % roto por marca mezcla escalones muy distintos y su rango probable es amplio (huevo San Juan: 44%, IC90 1–85%); por eso las cifras principales son por escalón. Chedraui Selecto (35%) tiene solo 3 tiendas. En chiles La Costeña el resultado depende de qué escalones se cuentan.
 
 ## Qué significa para el negocio y qué hacer
 
@@ -37,7 +58,6 @@ Aplica a los supermercados que monitorea PROFECO, no a todo el mercado. Solo pre
 - **Use la etiqueta de precio por unidad como herramienta, no como trámite:** es la que hace visible la escalera.
 
 **Analista comercial**
-- **Defina la variante antes de comparar tamaños.** Bimbo y los yoghurts parecen tener 3 tamaños, pero mezclan pan tostado con pan de caja y vaso con bebible.
 - **Reporte por escalón y por tamaños contiguos.** El promedio por marca mezcla escalones sanos con rotos y su rango probable es muy amplio.
 
 ## Cómo se hizo (breve)
@@ -50,9 +70,7 @@ Aplica a los supermercados que monitorea PROFECO, no a todo el mercado. Solo pre
 ## Limitaciones
 
 - **Universo:** solo tiendas monitoreadas por PROFECO; no es una muestra representativa de todos los establecimientos.
-- **Periodo:** una quincena (16–31 ago 2026); una promoción en un tamaño puede romper un escalón por unos días.
-- **Selección:** cinco escaleras de marcas con cobertura amplia; no describe todas las marcas del anaquel.
-- **Envases distintos:** en Coca-Cola la lata y la botella son envases distintos de la misma bebida.
+- **Periodo:** una quincena (16–31 ago 2026); una promoción puede romper un escalón por unos días.
 - **Causalidad:** el análisis no dice por qué una escalera se rompe (costos, promociones o precios de lista).
 
 ## Método

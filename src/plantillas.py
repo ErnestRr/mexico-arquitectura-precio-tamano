@@ -97,7 +97,7 @@ def readme(cfg, valores, estructura=None):
     if r.get("nota_principal"):
         lines += [render(r["nota_principal"], v), ""]
     lines += ["## Tres hallazgos de apoyo", ""]
-    lines += [f"{i}. {render(h, v)}" for i, h in enumerate(r.get("hallazgos_apoyo", []), 1)]
+    lines += [f"{i}. " + render(h, v).replace("\n\n", "\n\n   ") + "\n" for i, h in enumerate(r.get("hallazgos_apoyo", []), 1)]
     lines += ["", f"**Lo que no resultó sólido.** {render(r.get('no_solido', ''), v)}", "",
               "## Qué significa para el negocio y qué hacer", "",
               render(r.get("alcance", "Aplica a las tiendas que monitorea PROFECO, no a todo el mercado."), v), ""]
